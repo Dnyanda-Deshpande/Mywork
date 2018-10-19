@@ -1,0 +1,300 @@
+[
+    {
+      "id": 1,
+      "category": "electronics",
+      "sub_category": "Mobile",
+      "brand": "Xiaomi",
+      "name": "Redmi Note 5 Pro",
+      "price": "14999",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/y/q/m/redmi-note-5-pro-mzb6084in-original-imaf2g8zj6y5vkqn.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/x/f/y/redmi-note-5-pro-mzb6080in-original-imaf2g8zxrpfrt6v.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jdkjzww0/mobile/y/q/m/redmi-note-5-pro-mzb6084in-original-imaf2g8zeh2hgaud.jpeg?q=70"
+      ],
+      "ram": "4GB",
+      "storage": "64GB",
+      "rear-camera": "12MP + 5MP",
+      "front-camera": "20MP",
+      "display": "15.21 cm (5.99 inch) Full HD+ Display",
+      "battery": "4000 mAh Li Polymer Battery",
+      "soc": "Qualcomm Snapdragon 636 Processor"
+    },
+    {
+      "id": 2,
+      "category": "electronics",
+      "sub_category": "Mobile",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A7",
+      "price": "23990",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35cv5anzqw.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35gwut9uh5.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35gkhy6dmb.jpeg?q=70"
+      ],
+      "ram": "4GB",
+      "storage": "64GB",
+      "rear-camera": "24MP + 5MP + 8MP",
+      "front-camera": "24MP",
+      "display": "15.24 cm (6.0 inch) FHD+ Display",
+      "battery": "3300 mAh Lithium-ion Battery",
+      "soc": "Samsung Exynos Octa Core Processor (2.2 GHz) Processor"
+    },
+    {
+      "id": 3,
+      "category": "electronics",
+      "sub_category": "Mobile",
+      "brand": "OnePlus",
+      "name": "OnePlus 5",
+      "price": "35999",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jeykeq80/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaf3jfkg8jkhdfh.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jcktzm80/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaffzjzexrrgfgg.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jcnovbk0/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaffzjzbqydfjhh.jpeg?q=70"
+      ],
+      "ram": "8GB",
+      "storage": "128GB",
+      "rear-camera": "16MP + 20MP",
+      "front-camera": "16MP",
+      "display": "13.97 cm (5.5 inch) Full HD Display",
+      "battery": "3300 mAh Lithium-ion Battery",
+      "soc": "Qualcomm Snapdragon 835 Processor"
+    },
+    {
+      "id": 4,
+      "category": "fashion",
+      "sub_category": "Men",
+      "type": "T-Shirt",
+      "name": "Maniac checkered Men's T-Shirt",
+      "price": "449",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jdyuefk0/t-shirt/j/6/h/s-mens-ss18-rn-fs-checked-tshirt-navy-maniac-original-imaf2r9whsgg7bxg.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jdyuefk0/t-shirt/j/6/h/xl-mens-ss18-rn-fs-checked-tshirt-navy-maniac-original-imaf2r9hkq9wq85h.jpeg?q=70"
+      ],
+      "feature": "Full sleeve round neck",
+      "size": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 5,
+      "category": "fashion",
+      "sub_category": "Men",
+      "type": "Shirt",
+      "name": "Highlander Men Checkered Shirt",
+      "price": "649",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/shirt/s/e/f/m-hlsh009231-navy-blue-red-highlander-original-imaf5g64jtj3gtuf.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/shirt/s/e/f/m-hlsh009231-navy-blue-red-highlander-original-imaf5g64dddwtsgt.jpeg?q=70"
+      ],
+      "feature": "Full sleeve cotton casual",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 6,
+      "category": "fashion",
+      "sub_category": "Women",
+      "type": "Saree",
+      "name": "Saara Self Design Fashion Poly Silk Saree",
+      "price": "699",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jhmawsw0/sari/v/9/d/free-618s504-saara-original-imaf4yypb2hkvjwv.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jhmawsw0/sari/v/9/d/free-618s504-saara-original-imaf4yypswdzczz7.jpeg?q=70"
+      ],
+      "feature": "Poly Silk , Blouse Fabric : Poly Silk"
+    },
+    {
+      "id": 7,
+      "category": "fashion",
+      "sub_category": "Women",
+      "type": "Casual Top",
+      "name": "Rare Casual Bell Sleeve Solid Women's Orange Top",
+      "price": "517",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/j6zcwi80/top/y/s/x/m-ep2050a-rare-original-imaexb33qwvfjk6g.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/j6zcwi80/top/s/d/m/s-ep2050a-rare-original-imaexb3372ydfyvw.jpeg?q=70"
+      ],
+      "feature": "High Neck Full sleeve : Polyester",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 8,
+      "category": "home",
+      "sub_category": "furniture",
+      "name": "RoyalOak Beat Metal Coffee Table",
+      "price": "4699",
+      "Material": "Carbon Steel Metal",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jgv5jm80/coffee-table/5/g/8/carbon-steel-ct91-royaloak-brown-original-imaf48ssqugtzkey.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jgv5jm80/coffee-table/5/g/8/carbon-steel-ct91-royaloak-brown-original-imaf48sst3nerauc.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "others",
+      "sub_category": "sports",
+      "sports": "cricket",
+      "name": "Kookaburra Kahuna Prodigy 100 Full Size Cricket Bat",
+      "price": "690",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/j9zyd8w0/bat/s/z/m/1100-1250-long-handle-kahuna-150-kashmiri-willow-kook-15-original-imaezngrt3zp7xg2.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jj7givk0/bat/a/h/q/1200-bat-short-handle-3333-kookaburra-original-imaf3ehd2mkqf7ky.jpeg?q=70"
+      ],
+      "Material": "Kashmir willow",
+      "Ideal For": "Men (above 12)"
+    },
+    {
+      "id": 10,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "Dell",
+      "name": "Dell Vostro 14 3478",
+      "price": "40990",
+      "ram": "8GB",
+      "storage": "1TB HDD",
+      "processor": "i5",
+      "os": "Windows 10",
+      "display": "14 inch 1366*768 HD LED",
+      "soc": "Quad core 8th gen",
+      "usb": "1 x USB 2.0, 2 x USB 3.0",
+      "dimension": "345 x 243 x 23.35 mm",
+      "weight": "1.76 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4fbjfhzey.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4fdwjfzqr.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/r/s/u/dell-na-laptop-original-imaf9ph4qrz6vz9m.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "HP",
+      "name": "HP 15q-ds0017TU Laptop",
+      "price": "33990",
+      "ram": "8GB",
+      "storage": "1TB HDD",
+      "processor": "i3",
+      "os": "DOS",
+      "display": "15.6 inch 1366*768 HD LED",
+      "soc": "Dual core 7th gen",
+      "usb": "1 x USB 2.0, 2 x USB 3.1",
+      "dimension": "376 x 246 x 22.5 mm",
+      "weight": "1.77 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/v/u/q/hp-na-laptop-original-imaf9zypsgmfz4zk.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/v/u/q/hp-na-laptop-original-imaf9zypsheuqbbv.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/v/u/q/hp-na-laptop-original-imaf9zyphdjtyumz.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "Dell",
+      "name": "Dell Inspiron 3467",
+      "price": "27990",
+      "ram": "4GB",
+      "storage": "1TB HDD",
+      "processor": "i3",
+      "os": "Ubuntu",
+      "display": "14 inch 1366*768 HD LED",
+      "soc": "Quad core 6th gen",
+      "usb": "1 x USB 2.0, 2 x USB 3.0",
+      "dimension": "345 x 243 x 23.35 mm",
+      "weight": "1.95 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/computer/r/v/b/dell-na-laptop-original-imaf4hmbhuacfw9n.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/computer/g/z/c/dell-na-laptop-original-imaf4hmb8hyyh4ry.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/computer/r/v/b/dell-na-laptop-original-imaf4hmbfyffqfnc.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "Dell",
+      "name": "Dell Inspiron 5575 Ryzen",
+      "price": "48490",
+      "ram": "8GB",
+      "storage": "1TB HDD",
+      "processor": "AMD",
+      "os": "Windows 10",
+      "display": "14 inch 1366*768 HD LED",
+      "soc": "Ryzen 5 Quad core 64-bit",
+      "usb": "1 x USB 2.0, 2 x USB 3.1",
+      "dimension": "380 x 258 x 22.7 mm",
+      "weight": "2.22 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/a/w/dell-na-laptop-original-imaf9hu4q8kmrqy8.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/a/w/dell-na-laptop-original-imaf9hu4h3y65d8a.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jms25jk0/computer/m/a/w/dell-na-laptop-original-imaf9hu4vjg9fctn.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "Dell",
+      "name": "Dell Inspiron 7567 Gaming Laptop",
+      "price": "79990",
+      "ram": "8GB",
+      "storage": "1TB HDD",
+      "processor": "i7",
+      "os": "Windows 10",
+      "display": "15.6 inch 1920*1080 IPS Anti-glare LED",
+      "soc": "2.8GHz quad core 7th gen",
+      "gpu": "NVIDIA Geforce GTX 1050Ti",
+      "usb": "3 x USB 3.0",
+      "dimension": "384.9 x 274.73 x 25.44 mm",
+      "weight": "2.62 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phafdmhc9qj.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phabvd9sgye.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9pha7squb4en.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "Dell",
+      "name": "Dell Inspiron 5370",
+      "price": "45990",
+      "ram": "4GB",
+      "storage": "128GB SSD",
+      "processor": "i3",
+      "os": "Windows 10",
+      "display": "13 inch 1920*1080 IPS Anti-glare LED",
+      "soc": "2.7GHz Core i3",
+      "gpu": "Intel Integrated HD 620",
+      "usb": "3 x USB 3.1",
+      "dimension": "323.9 x 219.9 x 15.81 mm",
+      "weight": "1.4 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfavqtykmrg.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfayr9zxjwx.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfahvxzdwhq.jpeg?q=70"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "electronics",
+      "sub_category": "Laptop",
+      "brand": "Dell",
+      "name": "Dell Inspiron 3552",
+      "price": "20490",
+      "ram": "4GB",
+      "storage": "500GB HDD",
+      "processor": "i3",
+      "os": "Linux",
+      "display": "15.6 inch 1366*768 IPS Anti-glare LED",
+      "soc": "1.6GHz Celeron Dual Core",
+      "gpu": "Intel Integrated HD",
+      "usb": "2 x USB 2.0, 1 x USB 3.0",
+      "dimension": "380 x 260.3 x 21.7 mm",
+      "weight": "1.28 kg",
+      "image": [
+        "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36f8taybxa.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36uu485ddq.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36vvb4bztn.jpeg?q=70"
+      ]
+    }
+  ]
